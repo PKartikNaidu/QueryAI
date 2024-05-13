@@ -18,15 +18,6 @@
         <li>Required Python packages installed (specified in <code>requirements.txt</code>)</li>
     </ul>
 
-  <h3>Installation</h3>
-    <ol>
-        <li>Clone this repository to your local machine:</li>
-        <pre><code>git clone https://github.com/your-username/QueryAI.git</code></pre>
-        <li>Navigate to the project directory:</li>
-        <pre><code>cd QueryAI</code></pre>
-        <li>Install the required dependencies:</li>
-        <pre><code>pip install -r requirements.txt</code></pre>
-    </ol>
 
   <h2>Usage</h2>
     <p>Set up your MySQL database configuration by modifying the settings in the sidebar of the application:</p>
