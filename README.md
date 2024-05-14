@@ -44,8 +44,8 @@
     <p>Once connected, you can start interacting with QueryAI by typing your queries in the chat input field. QueryAI will interpret your natural language queries, convert them into SQL queries, execute them against the database, and display the results.</p>
 
 <h2>Screenshots</h2>
-   ![IMG-20240514-WA0008](https://github.com/PKartikNaidu/QueryAI/assets/116448807/ca2770c9-9729-4c7a-8777-c26f947c5edb)
-![IMG-20240514-WA0006](https://github.com/PKartikNaidu/QueryAI/assets/116448807/2b4d0aee-a771-4b4f-92e5-26ca9ffcf6f2)
-![IMG-20240514-WA0007](https://github.com/PKartikNaidu/QueryAI/assets/116448807/d072376f-1022-4ea5-a285-9d055389df64)
-![IMG-20240514-WA0005](https://github.com/PKartikNaidu/QueryAI/assets/116448807/edc473a2-fcd8-4a09-8a33-c296598c3a6e)
+  <img width="1440" alt="Screenshot 2024-05-14 at 12 14 12 PM" src="https://github.com/PKartikNaidu/QueryAI/assets/116448807/c559043f-9b02-4044-a4bc-7079ff73719b">
+<img width="1440" alt="Screenshot 2024-05-14 at 12 14 35 PM" src="https://github.com/PKartikNaidu/QueryAI/assets/116448807/6e31afaf-4ff8-4fda-bba8-a7fbe6f95b3c">
+<img width="1440" alt="Screenshot 2024-05-14 at 12 15 26 PM" src="https://github.com/PKartikNaidu/QueryAI/assets/116448807/9370dd0d-b9e7-4f34-831e-175cc0cf3b4f">
+<img width="1440" alt="Screenshot 2024-05-14 at 12 15 34 PM" src="https://github.com/PKartikNaidu/QueryAI/assets/116448807/515ba623-ecb3-4592-bcb1-05354c6be8bb">
 
