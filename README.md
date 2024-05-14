@@ -18,6 +18,18 @@
         <li>Required Python packages installed (specified in <code>requirements.txt</code>)</li>
     </ul>
 
+<h3>Dataset</h3>
+<p>The project can be applied to any SQL database containing tables and records that you want to query using natural language.</p>
+
+<h3>How it Works</h3>
+<p>The LLM project leverages natural language processing techniques to convert user input into SQL queries. Here's how it works:    
+<ol>
+        <li><strong>User Input:</strong> Enter a natural language prompt (e.g., "Show me all customers from New York").</li>
+        <li><strong>NLP Processing:</strong> Use NLP libraries to parse and understand the user query.</li>
+        <li><strong>SQL Query Generation:</strong> Convert the parsed input into SQL queries that can be executed on the database.</li>
+        <li><strong>Database Interaction:</strong> Execute the generated SQL query on the connected SQL server.</li>
+        <li><strong>Response:</strong> Display the results back to the user in a readable format.</li>
+</ol>
 
   <h2>Usage</h2>
     <p>Set up your MySQL database configuration by modifying the settings in the sidebar of the application:</p>
