@@ -21,7 +21,7 @@
 <h3>Dataset</h3>
 <p>The project can be applied to any SQL database containing tables and records that you want to query using natural language.</p>
 
-<h3>How it Works</h3>
+<h2>How it Works</h2>
 <p>The LLM project leverages natural language processing techniques to convert user input into SQL queries. Here's how it works:    
 <ol>
         <li><strong>User Input:</strong> Enter a natural language prompt (e.g., "Show me all customers from New York").</li>
@@ -43,4 +43,9 @@
     <p>Click on the "Connect" button to establish a connection to the database.</p>
     <p>Once connected, you can start interacting with QueryAI by typing your queries in the chat input field. QueryAI will interpret your natural language queries, convert them into SQL queries, execute them against the database, and display the results.</p>
 
-   
+<h2>Screenshots</h2>
+   ![IMG-20240514-WA0008](https://github.com/PKartikNaidu/QueryAI/assets/116448807/ca2770c9-9729-4c7a-8777-c26f947c5edb)
+![IMG-20240514-WA0006](https://github.com/PKartikNaidu/QueryAI/assets/116448807/2b4d0aee-a771-4b4f-92e5-26ca9ffcf6f2)
+![IMG-20240514-WA0007](https://github.com/PKartikNaidu/QueryAI/assets/116448807/d072376f-1022-4ea5-a285-9d055389df64)
+![IMG-20240514-WA0005](https://github.com/PKartikNaidu/QueryAI/assets/116448807/edc473a2-fcd8-4a09-8a33-c296598c3a6e)
+
